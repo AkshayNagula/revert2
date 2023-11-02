@@ -1,6 +1,9 @@
 oneline
 <<<<<<< HEAD
 secondline
+<<<<<<< HEAD
 thirdline
 =======
 >>>>>>> parent of 83f1224 (second commit)
+=======
+>>>>>>> parent of 7bf6b8b (third commit)
